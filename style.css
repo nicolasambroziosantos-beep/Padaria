@@ -12,13 +12,13 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #2f0035;             /* marrom escuro (texto) */
-    background-color: #000000;  /* creme (fundo) */
+    color: #87638b;             /* marrom escuro (texto) */
+    background-color: #f8f5f5;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #ae00ff;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #9c07e0;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #ee1818;
+    color: #000000;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
